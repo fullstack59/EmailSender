@@ -1,0 +1,19 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "name": "Developer",
+      "descrip": "Software Developer"
+    },
+    {
+      "id": 2,
+      "name": "Accountant",
+      "descrip": "Customer Support Accountant"
+    },
+    {
+      "id": 3,
+      "name": "Seller",
+      "descrip": "Main Seller"
+    }
+  ]
+}
